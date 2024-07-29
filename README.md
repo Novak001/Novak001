@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Novak001
-- 👀 I’m interested in creating platforms (using .NET, Angular, React, Flutter) and anything making human lives better.
-- 🌱 I’m currently learning Angular, React and Flutter
-💞️ I’m looking to collaborate on .NET, Node.js, React, and Angular Projects
+- 👀 I’m interested in creating platforms (using .NET, Node.js, Typescript, Angular, React) and anything making human lives better.
+💞️ I’m looking to collaborate on .NET,  Node.js, Typescript, React, and Angular Projects
 - 📫 How to reach me tola_awe@hotmail.com
 
 <!---
